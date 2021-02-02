@@ -60,4 +60,3 @@ Please citing the following publication when using the dataset:
     year = "2021",
 }
 ```
-redirectFrom: https://mtg.github.io/melon-playlist-dataset/
